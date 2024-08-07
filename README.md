@@ -1,7 +1,9 @@
 # Hello, I'm Edward
 # Cybersecurity Enthusiast | AWS Cloud Sales Expert | Aspiring Security Professional
-<a href="[https://www.linkedin.com/in/edward-shalomi-129a39198/]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<a href="https://www.linkedin.com/in/edward-shalomi-129a39198/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 I am a seasoned cloud sales professional with over 2 years of experience in AWS solutions. Currently, I am transitioning into the field of cybersecurity, driven by a passion for protecting digital assets and mitigating cyber threats. This portfolio showcases my journey and projects in cybersecurity.
 ## Objective
